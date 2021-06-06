@@ -16,10 +16,6 @@ const socialMedia = [
     {
         link: 'https://www.instagram.com/javier_edge/',
         fa: 'fab fa-instagram'
-    },
-    {
-        link: 'https://wa.me/50670132185',
-        fa: 'fab fa-whatsapp-square'
     }
 
     
