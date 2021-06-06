@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/resume",
   siteMetadata: {
     title: `Javier Brenes Redondo`,
     description: `Hola mi nombre es Javier Brenes, soy desarrollador de software, y me encantaria hablar contigo acerca de proyectos.`,
