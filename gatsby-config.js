@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/resume",
   siteMetadata: {
     title: `Javier Brenes Redondo`,
     description: `Hola mi nombre es Javier Brenes, soy desarrollador de software, y me encantaria hablar contigo acerca de proyectos.`,
@@ -24,7 +25,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/javier_brenes.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/javier_brenes.jpeg`, // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-postcss',

@@ -9,7 +9,7 @@ const LetsTalk = () => {
     useEffect(() => {
         lottieWeb.loadAnimation({
             container: lottieRef.current, // required
-            path: '/work-at-home.json', // required
+            path: 'https://res.cloudinary.com/javier-brenes/raw/upload/v1623016904/lottie/work-at-home_h7lb6k.json', // required
             renderer: 'svg', // required
             loop: true, // optional
             autoplay: true, // optional
@@ -25,4 +25,4 @@ const LetsTalk = () => {
     )
 }
 
-export default LetsTalk
+export default LetsTalksss
