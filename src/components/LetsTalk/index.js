@@ -25,4 +25,4 @@ const LetsTalk = () => {
     )
 }
 
-export default LetsTalksss
+export default LetsTalk
